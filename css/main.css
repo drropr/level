@@ -1,0 +1,13 @@
+.content{
+    border: 1px dashed red;
+    display: flex;
+    flex-direction: column;
+    
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    border: 1px dashed blue;
+    width: 95%; 
+
+}
